@@ -8,6 +8,7 @@ import reportWebVitals from "./reportWebVitals";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   //what do you want react to render into your document
+  //high level react code
   <React.StrictMode>
     <App /> {/*react component --> They are reusable*/}
   </React.StrictMode>
